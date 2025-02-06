@@ -948,7 +948,7 @@ JOIN (
 ) s2 ON s1.Payment_per_hour > s2.max_payment);
 
 
-use farm_management_system;
+use farm_management_system;--
 
 
 
